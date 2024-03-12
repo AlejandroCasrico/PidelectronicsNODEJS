@@ -10,3 +10,10 @@ El proyecto fue realizado en node js con las siguientes dependencias
                -sequelize: Ayuda a conectar la base de datos y crear modelos. 
 Mi proyecto en node js conlleva la creacion de dos modelos de base de datos de usuario y de movimientos
 se crean controladores para la logica del proyecto, uso de rutas para crear endpoints.
+#EL ADMIN RUTAS
+#casiricoalex@outlook.com
+#password:123445
+
+#EL CLIENTE RUTAS
+#casi.com
+#password:123445
